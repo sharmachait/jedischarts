@@ -1,7 +1,7 @@
 image:
   repository: beelzekamibub/redis
   tag: latest
-  pullPolicy: Never
+  pullPolicy: Always
 
 service:
   type: NodePort
